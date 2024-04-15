@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "pid": "1",
+      "name": "basket",
+      "price": "200",
+      "id": 1
+    },
+    {
+      "pid": "2",
+      "name": "tissue paper",
+      "price": "52",
+      "id": 2
+    },
+    {
+      "pid": "3",
+      "name": "laptop",
+      "price": "52000",
+      "id": 3
+    },
+    {
+      "pid": "4",
+      "name": "water bottle",
+      "price": "50",
+      "id": 4
+    },
+    {
+      "pid": "5",
+      "name": "spoons",
+      "price": "850",
+      "id": 5
+    }
+  ]
+}
